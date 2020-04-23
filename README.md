@@ -14,8 +14,10 @@ Get inside folder mysite
 3. Activate the enviornment - conda activate mysite
    and to deactivate use - conda deactivate
 
-4. To run server - python manage.py runserver
+4. pip install django
 
-5. To open shell - python manage.py shell
+5. To run server - python manage.py runserver
 
-6. To run Test case - python manage.py test polls
+6. To open shell - python manage.py shell
+
+7. To run Test case - python manage.py test polls
